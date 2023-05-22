@@ -1,0 +1,15 @@
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\bin\Debug\net6.0\my_tasks.exe
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\bin\Debug\net6.0\my_tasks.deps.json
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\bin\Debug\net6.0\my_tasks.runtimeconfig.json
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\bin\Debug\net6.0\my_tasks.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\bin\Debug\net6.0\my_tasks.pdb
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\obj\Debug\net6.0\my_tasks.csproj.AssemblyReference.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\obj\Debug\net6.0\my_tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\obj\Debug\net6.0\my_tasks.AssemblyInfoInputs.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\obj\Debug\net6.0\my_tasks.AssemblyInfo.cs
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\obj\Debug\net6.0\my_tasks.csproj.CoreCompileInputs.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\obj\Debug\net6.0\my_tasks.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\obj\Debug\net6.0\refint\my_tasks.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\obj\Debug\net6.0\my_tasks.pdb
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\obj\Debug\net6.0\my_tasks.genruntimeconfig.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\07 - Семинар 4\homework\my_tasks\obj\Debug\net6.0\ref\my_tasks.dll
